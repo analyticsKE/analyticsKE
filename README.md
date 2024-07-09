@@ -21,6 +21,42 @@ I am a researcher and analyst with experience in Finance, Accounting and Interna
 - 🌱 I’m currently learning Business Analytics, Geospatial Analysis, Various topics in ML/AI and cool disruptive technologies
 - 📫 How to reach me: deltaanalyticske@gmail.com
 
+## 🚀 Projects
+
+### 1. Big 5 European Football Leagues Dashboard
+
+A comprehensive Streamlit dashboard providing analysis of the top 5 European football leagues for the 2023/24 season.
+
+https://europebig5.streamlit.app
+
+**Features:**
+- League tables and top scorers
+- Detailed team analysis with performance metrics and radar charts
+- League-wide analysis including expected vs. actual points
+- Interactive filters for country and team selection
+
+**Tech Stack:** Python, Streamlit, Pandas, Plotly, SciPy
+
+[View Project](https://github.com/analyticsKE/Soccer-s-Big-5-leagues-in-Europe-2023-24)
+
+### 2. Financial Data Analytics Dashboard
+
+An interactive Streamlit application for analyzing and visualizing financial data.
+
+https://fsanalysis.streamlit.app
+
+**Features:**
+- Revenue Growth
+- Profitability Analysis
+- Return on Equity Analysis
+- Operational Efficiency
+- Key Insights
+- Comparative Analysis
+
+**Tech Stack:** Python, Streamlit, Pandas, Matplotlib, OpenBB
+
+[View Project](https://github.com/analyticsKE/fin_analysis---streamlit)
+
 ### Latest Blogs
 <!-- HASHNODE:START -->
 - [Demystifying ETFs: A Comprehensive Guide for Beginners](https://medium.com/@deltaanalyticske/demystifying-etfs-a-comprehensive-guide-for-beginners-5431819e74d0)
